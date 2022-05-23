@@ -1,11 +1,9 @@
 +title+ **PR checklist** :checkered_flag:
-+task+ No local configuration (passwords, comments, debugging) is committed 🔒
-+task+ All tasks in linked issues have been addressed 👍🏾
-+task+ All necessary labels were set (type, effort, work) 🏷
++task+ Do not commit local or sensitive configuration (passwords, comments, debugging) 🔒
++task+ Address all tasks in linked issues 👍🏾
++task+ Add all necessary labels (type, effort, work) 🏷
 
 --target main +title+ **Relevant branch checklist** 🔍
---target main +task+ All necessary reviews have been requested 👩🏽‍🌾 🦃 🐄 🐖
---target main +task+ SemVer label was set  🏷 ✨ 🐛 🧰
 --target main +task+ README.md is up to date 📝
 --target main +task+ CHANGELOG.md is up to date 📄
 --target main +comment+ All done? merge PR with squash option 🚀
