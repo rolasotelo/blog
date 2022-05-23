@@ -19,7 +19,9 @@
 
 Hola 👋🏾! My name is Rola(ndo) Sotelo 🇲🇽; I'm a Software Engineer. Passionate about Cloud-Native DevOps and SRE. If I'm not learning something new during my free time, I'm probably reading or playing board games.
 
-This Hashnode blog is my first experience writing tech articles, but it is something I've always wanted to dive into because I'm a big consumer of this type of content. In addition, I'm aware of many of the benefits sharing knowledge and engaging with other people equally invested in the tech world can bring to your career as a Software Engineer and member of this community. And yeah, I'm excited about this.
+This Hashnode blog is my first experience writing tech articles, but it is something I've always wanted to dive into because I'm a big consumer of this type of content. In addition, I'm aware of many of the benefits sharing knowledge and engaging with other people equally invested in the tech world can bring to your career as a Software Engineer and member of this community.
+
+I'm excited about this 😁; any comments and recommendations are welcomed.
 
 ---
 You can contact me at rola@hey.com
